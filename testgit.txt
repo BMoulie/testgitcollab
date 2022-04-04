@@ -5,3 +5,4 @@ Bienvenue sur mon fichier. Les participants de la formation sont :
 - Dylan
 - Bertrand ajout pour collaboration
 - Dylan ajout pour collaboration
+- Bertrand 2ème ajout
